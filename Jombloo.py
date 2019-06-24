@@ -33,7 +33,7 @@ def awalan():
     print " "
     print " "
     print cy+"-@-@-@-@-@-@-@-@-@-@-@-@-@-@-"
-    print cy+"|"+i+" PENYUSUN :"+pu+" MUHAMAD BADRU WASIH"+cy+" |"
+    print cy+"|"+i+" PENYUSUN :"+pu+" MUHAMAD BADRU"+cy+" |"
     print cy+"|"+pur+"  KUMPULAN BRUTEFORCE"+bi+" FB"+cy+"   |"
     print cy+"-@-@-@-@-@-@-@-@-@-@-@-@-@-@-"+pu
     os.system ('date')
