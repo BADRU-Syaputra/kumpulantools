@@ -54,7 +54,7 @@ def menu():
     mau = raw_input(ku+"   ["+me+"?"+ku+"]"+cy+" PILIH NO : "+pu)
 
     if mau == '1':
-       os.system ('cd brute;python2 Darkfbv.py')
+       os.system ('cd dark-fb;python2 Darkfbv.py')
     if mau == '2':
        os.system ('cd brute;python2 brute.py')
     if mau == '3':
